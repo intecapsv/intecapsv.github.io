@@ -39,7 +39,12 @@
     "siteFonts": [],
     "uniqCompNum": 91,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
