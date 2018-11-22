@@ -5323,7 +5323,8 @@ body {
 .cid-raah9OvUoh {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-12-1920x1280.jpg");
+  background-color: #800303;
+  background: linear-gradient(45deg, #800303, #000000);
 }
 @media (min-width: 992px) {
   .cid-raah9OvUoh .mbr-figure {
@@ -5503,7 +5504,8 @@ body {
 .cid-raahWbukCC {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-11-1920x1280.jpg");
+  background-color: #800303;
+  background: linear-gradient(45deg, #800303, #000000);
 }
 @media (min-width: 992px) {
   .cid-raahWbukCC .mbr-figure {
