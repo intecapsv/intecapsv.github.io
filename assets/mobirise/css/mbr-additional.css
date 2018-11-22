@@ -8746,9 +8746,15 @@ body {
   background-color: #800303;
   background: linear-gradient(45deg, #800303, #000000);
 }
+.cid-raaCkBd8XN .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-raaCkBd8XN .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
