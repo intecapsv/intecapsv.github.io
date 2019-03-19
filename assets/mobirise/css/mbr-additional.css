@@ -1382,6 +1382,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #ff0000;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #ff0000;
+}
 .cid-rc6ayt2UL1 .navbar {
   background: #ffffff;
   transition: none;
@@ -1806,6 +1817,9 @@ body {
   .cid-rc6d94XWDC .inner-container {
     width: 100% !important;
   }
+}
+.cid-rc6d94XWDC .section-text B {
+  color: #ff0000;
 }
 .cid-rc6dN5tMvS {
   padding-top: 45px;
