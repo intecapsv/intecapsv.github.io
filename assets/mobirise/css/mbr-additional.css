@@ -2438,9 +2438,15 @@ body {
   background-color: #8c0000;
   background: linear-gradient(45deg, #8c0000, #000000);
 }
+.cid-rc6lOk4Dn0 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-rc6lOk4Dn0 .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
