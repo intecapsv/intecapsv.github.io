@@ -3026,9 +3026,12 @@ body {
 .cid-rrrsDFp0YK .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rrrsDFp0YK H2 {
+  color: #ff0000;
+}
 .cid-rsiVhhtRbh {
   padding-top: 120px;
-  padding-bottom: 75px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/rojo-2000x1554.jpg");
 }
 .cid-rsiVhhtRbh .mbr-section-subtitle {
@@ -3041,7 +3044,7 @@ body {
   height: 56px;
   font-size: 28px;
   border-radius: 50%;
-  border: 2px solid #bc1717;
+  border: 2px solid #ff0000;
   padding-bottom: 0;
   color: #540000;
   text-align: center;
@@ -3057,7 +3060,7 @@ body {
     content: "";
     height: 2px;
     width: calc(50% + 15px - 28px - 8px);
-    background-color: #bc1717;
+    background-color: #ff0000;
   }
   .cid-rsiVhhtRbh .separline .step-wrapper:before {
     left: -15px;
@@ -3487,14 +3490,16 @@ body {
   font-style: italic;
   color: #232323;
   font-weight: 300;
-  text-align: left;
+  text-align: center;
 }
 .cid-rrrp9O9aUO .mbr-author-name {
   font-weight: bold;
   color: #232;
+  text-align: center;
 }
 .cid-rrrp9O9aUO .mbr-author-desc {
   color: #ff0000;
+  text-align: center;
 }
 @media (max-width: 991px) {
   .cid-rrrp9O9aUO .mbr-figure,
